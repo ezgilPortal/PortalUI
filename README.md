@@ -34,8 +34,3 @@ docker build --pull --rm --platform linux/amd64 -f "Dockerfile" -t ezgilwebui .
 ```
 docker run --rm -it -p 80:3000 ezgilwebui
 ```
-
-### Run with docker for Docker Hub
-```
-docker run --rm -it -p 80:3000 alicanblnr/ezgilwebui
-```
