@@ -39,9 +39,3 @@ docker run --rm -it -p 80:3000 ezgilwebui
 ```
 docker run --rm -it -p 80:3000 alicanblnr/ezgilwebui
 ```
-
-### SSH LOGIN
-```
-ssh ubuntu@89.252.153.246
-8sHhrrYPyeabWX
-```
