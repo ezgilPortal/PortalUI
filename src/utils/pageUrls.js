@@ -1,0 +1,25 @@
+const pageURL = {
+  home: "/",
+  login: "/login",
+  cariler: "/cariler",
+  orders: "/orders",
+  device: "/device",
+  users: "/users",
+  deviceLog: "/device-log",
+  deviceReport: "/device-report",
+  deviceLogId: "/device-log/:id?",
+  report: "/report",
+  workSchedule: "/work-schedule",
+  UserManagement: "/user-management",
+  RoleManagement: "/role-management",
+  RoleAction: "/role-management/:mode/:id?",
+  Authority: "/authority",
+  AuthorityAction: "/authority/:mode/:id?",
+  Location: "/location",
+  ProductIOT: "/product/iot",
+  ProductIOTDisplay: "/product/iot-display",
+  ProductNonIOT: "/product/noniot",
+  ProductIOTModel: "/product/iotmodel",
+};
+
+export default pageURL;
